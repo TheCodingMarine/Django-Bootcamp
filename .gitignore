@@ -129,5 +129,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# VS Code Workspace Settings
-django-boocamp.code-workspace
+# Django bootcamp
+Course-Materials
